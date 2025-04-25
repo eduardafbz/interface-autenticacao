@@ -1,6 +1,6 @@
 # Interface de autenticação 💻
 
-Projeto fictício de um website sobre tecnologia.
+Projeto de uma página de autenticação de usuário
 
 ### Tecnologias Utilizadas:
 - [x] HTML5
